@@ -15,6 +15,7 @@ A list of awesome tools I use
 - [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost
 - [NuShell](https://github.com/nushell/nushell) - A new type of shell
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - a modern grep replacement written in Rust
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [z](https://github.com/rupa/z) - jump around directories quickly in your shell
 
 ## Productivity Tools
