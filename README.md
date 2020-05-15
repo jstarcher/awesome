@@ -10,7 +10,9 @@ A list of awesome tools I use
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder
 - [Glances](https://github.com/nicolargo/glances) - a top/htop alternative
 - [htop](https://github.com/hishamhm/htop) - an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+- [Mosh](https://mosh.org/) - the mobile shell
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - disk usage analyzer with an ncurses interface
+- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost
 - [NuShell](https://github.com/nushell/nushell) - A new type of shell
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - a modern grep replacement written in Rust
 - [z](https://github.com/rupa/z) - jump around directories quickly in your shell
