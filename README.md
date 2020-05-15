@@ -21,3 +21,4 @@ A list of awesome tools I use
 ## Productivity Tools
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams 
 - [Lucidchart](https://www.lucidchart.com/) - Create flowcharts, process maps, UML models, org charts, and ER diagrams
+- [Marp-CLI](https://github.com/marp-team/marp-cli) - create html slideshows from markdown
