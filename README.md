@@ -12,6 +12,7 @@ A list of awesome tools I use
 - [Home Assistant](https://www.home-assistant.io/)
 
 ## Linux Tools
+- [fd](https://github.com/sharkdp/fd) - a simple, fast and user-friendly alternative to find.
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder
 - [Glances](https://github.com/nicolargo/glances) - a top/htop alternative
 - [GNU Stow](https://www.gnu.org/software/stow/) - perfect tool managing your dotfiles
