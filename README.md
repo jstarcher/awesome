@@ -4,7 +4,7 @@ A list of awesome tools I use
 ## Table of contents
 
   - [Linux Tools](#linux-tools)
-  - [Networking Toools](#networking-tools
+  - [Networking Toools](#networking-tools)
   - [Productivity Tools](#productivity-tools)
 
 ## Linux Tools
