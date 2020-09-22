@@ -10,6 +10,7 @@ A list of awesome tools I use
 ## Linux Tools
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder
 - [Glances](https://github.com/nicolargo/glances) - a top/htop alternative
+- [GNU Stow](https://www.gnu.org/software/stow/) - perfect tool managing your dotfiles
 - [htop](https://github.com/hishamhm/htop) - an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Mosh](https://mosh.org/) - the mobile shell
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - disk usage analyzer with an ncurses interface
