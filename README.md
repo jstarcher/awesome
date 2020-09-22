@@ -24,6 +24,7 @@ A list of awesome tools I use
 - [z](https://github.com/rupa/z) - jump around directories quickly in your shell
 
 ## Load Testing
+- [Artillery](https://artillery.io/) - a modern, powerful & easy-to-use solution for load testing and functional testing
 - [Gattling](https://gatling.io/) - Open source home automation that puts local control and privacy first.
 - [Garie)(https://garie.netlify.app/) - An open source toolkit to monitor web performance
 
