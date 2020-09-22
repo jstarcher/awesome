@@ -4,6 +4,7 @@ A list of awesome tools I use
 ## Table of contents
 
   - [Linux Tools](#linux-tools)
+  - [Networking Toools](#networking-tools
   - [Productivity Tools](#productivity-tools)
 
 ## Linux Tools
@@ -12,11 +13,14 @@ A list of awesome tools I use
 - [htop](https://github.com/hishamhm/htop) - an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Mosh](https://mosh.org/) - the mobile shell
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - disk usage analyzer with an ncurses interface
-- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost
 - [NuShell](https://github.com/nushell/nushell) - A new type of shell
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - a modern grep replacement written in Rust
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [z](https://github.com/rupa/z) - jump around directories quickly in your shell
+
+## Networking Tools
+- [sshuttle](https://github.com/apenwarr/sshuttle) - where transparent proxy meets VPN meets ssh
+- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost
 
 ## Productivity Tools
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams 
