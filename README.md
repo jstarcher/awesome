@@ -3,9 +3,13 @@ A list of awesome tools I use
 
 ## Table of contents
 
+  - [Home Automation(#home-automation)
   - [Linux Tools](#linux-tools)
   - [Networking Tools](#networking-tools)
   - [Productivity Tools](#productivity-tools)
+ 
+## Home Automation
+  - [Home Assistant](https://www.home-assistant.io/)
 
 ## Linux Tools
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder
@@ -19,7 +23,12 @@ A list of awesome tools I use
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [z](https://github.com/rupa/z) - jump around directories quickly in your shell
 
+## Load Testing
+- [Gattling](https://gatling.io/) - Open source home automation that puts local control and privacy first.
+- [Garie)(https://garie.netlify.app/) - An open source toolkit to monitor web performance
+
 ## Networking Tools
+- [iPerf](https://iperf.fr/iperf-download.php) - The ultimate speed test tool for TCP, UDP and SCTP via CLI
 - [sshuttle](https://github.com/apenwarr/sshuttle) - where transparent proxy meets VPN meets ssh
 - [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost
 
