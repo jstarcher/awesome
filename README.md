@@ -3,7 +3,7 @@ A list of awesome tools I use
 
 ## Table of contents
 
-  - [Home Automation(#home-automation)
+  - [Home Automation](#home-automation)
   - [Linux Tools](#linux-tools)
   - [Networking Tools](#networking-tools)
   - [Productivity Tools](#productivity-tools)
